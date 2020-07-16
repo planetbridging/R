@@ -1,0 +1,148 @@
+"Searching for"
+"Britney Spears"
+"Web scraping"
+"testing web"
+"https://en.wikipedia.org/wiki/Britney_Spears_discography"
+"Checking:  https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)"
+...Baby One More Time
+(You Drive Me) Crazy
+Sometimes
+Soda Pop
+Born to Make You Happy
+From the Bottom of My Broken Heart
+I Will Be There
+I Will Still Love You\" (duet with Don Philip)"
+Thinkin' About You
+E-Mail My Heart
+The Beat Goes On
+"42:20"
+"Song count:  11"
+"...Baby One More Time  :  Released: January 12, 1999"
+"Checking:  https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)"
+Oops!... I Did It Again
+Stronger
+Don't Go Knockin' on My Door
+(I Can't Get No) Satisfaction
+Don't Let Me Be the Last to Know
+What U See (Is What U Get)
+Lucky
+One Kiss from You
+Where Are You Now
+Can't Make You Love Me
+When Your Eyes Say It
+Dear Diary
+"44:37"
+"Song count:  12"
+"Oops!... I Did It Again  :  Released: May 16, 2000"
+"Checking:  https://en.wikipedia.org/wiki/Britney_(album)"
+I'm a Slave 4 U
+Overprotected
+Lonely
+I'm Not a Girl, Not Yet a Woman
+Boys
+Anticipating
+I Love Rock 'n' Roll
+Cinderella
+Let Me Be
+Bombastic Love
+That's Where You Take Me
+What It's Like to Be Me
+"39:47"
+"Song count:  12"
+"Britney  :  Released: November 5, 2001"
+"Checking:  https://en.wikipedia.org/wiki/In_the_Zone"
+Me Against the Music\" (featuring Madonna)"
+(I Got That) Boom Boom\" (featuring Ying Yang Twins)"
+Showdown
+Breathe on Me
+Early Mornin'
+Toxic
+Outrageous
+Touch of My Hand
+The Hook Up
+Shadow
+Brave New Girl
+Everytime
+Me Against the Music\" (featuring Madonna) (Rishi Rich's Desi Kulcha Remix)"
+"50:02"
+"Song count:  13"
+"In the Zone  :  Released: November 16, 2003"
+"Checking:  https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)"
+Gimme More
+Piece of Me
+Radar
+Break the Ice
+Heaven on Earth
+Get Naked (I Got a Plan)
+Freakshow
+Toy Soldier
+Hot as Ice
+Ooh Ooh Baby
+Perfect Lover
+Why Should I Be Sad
+"43:37"
+"Song count:  12"
+"Blackout  :  Released: October 25, 2007"
+"Checking:  https://en.wikipedia.org/wiki/Circus_(Britney_Spears_album)"
+Womanizer
+Circus
+Out from Under
+Kill the Lights
+Shattered Glass
+If U Seek Amy
+Unusual You
+Blur
+Mmm Papi
+Mannequin
+Lace and Leather
+My Baby
+Radar\" (bonus track)"
+"46:15"
+"Song count:  13"
+"Circus  :  Released: November 28, 2008"
+"Checking:  https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album)"
+Till the World Ends
+Hold It Against Me
+Inside Out
+I Wanna Go
+How I Roll
+(Drop Dead) Beautiful\" (featuring Sabi)"
+Seal It with a Kiss
+Big Fat Bass\" (featuring will.i.am)"
+Trouble for Me
+Trip to Your Heart
+Gasoline
+Criminal
+"44:00"
+"Song count:  12"
+"Femme Fatale  :  Released: March 25, 2011"
+"Checking:  https://en.wikipedia.org/wiki/Britney_Jean"
+Alien
+Work Bitch
+Perfume
+It Should Be Easy\" (featuring will.i.am)"
+Tik Tik Boom\" (featuring T.I.)"
+Body Ache
+Til It's Gone
+Passenger
+Chillin' with You\" (featuring Jamie Lynn)"
+Don't Cry
+"36:08"
+"Song count:  10"
+"Britney Jean  :  Released: November 29, 2013"
+"Checking:  https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)"
+Invitation
+Do You Wanna Come Over?
+Make Me...\" (featuring G-Eazy)"
+Private Show
+Man on the Moon
+Just Luv Me
+Clumsy
+Slumber Party
+Just like Me
+Love Me Down
+Hard to Forget Ya
+What You Need
+"Song count:  11"
+"Glory  :  Released: August 26, 2016"
+There were 18 warnings (use warnings() to see them)

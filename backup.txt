@@ -1,0 +1,106 @@
+https://en.wikipedia.org/wiki/Britney_Spears_discography
+https://en.wikipedia.org/wiki/Britney_Spears _discography
+
+
+tr <- xml_find_all(tbl[0], ".//tr")
+								
+								songCount <- 0
+								
+								for(trs in tr){
+								
+									if(str_detect(trs,":")){
+										td <- xml_find_all(trs, ".//td")
+										print(length(td))
+										if(length(td) > 0){
+											#if(str_detect(td[0],".")){
+											
+												output = ""
+												for(tds in td){
+													txtclean = xml_text(tds)
+													#txtclean = str_replace(txtclean, "\\","")
+													output = paste(output," ", txtclean)
+												}
+												songCount = songCount + 1
+												#print(output)
+											#}
+										}
+										
+										
+										
+										
+									}
+								
+									
+								}
+								print(songCount)
+
+
+#--------------------------------------------ObjWebScrap.R-----------------------------
+#library(XML)
+library('xml2')
+library('rvest')
+library('stringr')
+
+ObjWebScrap <- setRefClass("ObjWebScrap",
+                       fields = list(),
+
+                       methods = list(
+                         initialize =function(){
+                           print("Web scraping")
+  
+                         },
+
+							 installPackages = function(){
+								#install.packages('selectr')
+								install.packages('stringr')
+								install.packages('XML')
+								install.packages('xml2')
+								install.packages('rvest')
+							 },
+							 testing = function(){
+								print('testing web')
+								foundData = FALSE
+								webpage <- read_html('https://en.wikipedia.org/wiki/Robbie_Williams_discography')
+								#rank_data_html <- html_nodes(Amazonwebpage,'.wikitable .plainrowheaders')
+								tbls <- html_nodes(webpage, "table")
+								#print(tbls)
+								for (t in tbls) {
+									#print(grepl(i, 'Released:',fixed=TRUE))
+									#if(grepl(i, 'Released:',fixed=TRUE)){
+									#	print('yay')
+									#}else{
+								#		print("ffs")
+								#	}
+									#print(i)
+									#print(stri_detect_fixed("test","est"))
+									if(str_detect(t, "Released:")){
+										tr <- xml_find_all(t, ".//tr")
+										
+										
+										for(trs in tr){
+											if(str_detect(trs, "Released:")){
+												th <- xml_find_all(trs, ".//th")
+												#a <- xml_find_all(th, ".//a")
+												for(album in th){
+													txt = xml_text(album)
+													print(txt)
+												}
+											}
+										}
+										#print(baz)
+										#print(xml_children(i))
+										#print(html_table(i,fille= TRUE))
+										#bls_table2 <- readHTMLTable(i)
+										#head(bls_table2)
+									}else{
+										print("ffs")
+									}
+								}
+								
+								
+								
+								
+							 }
+                         )
+                       )
+#--------------------------------------------ObjWebScrap.R-----------------------------
